@@ -1,0 +1,12 @@
+.elementor-element .icon .blfe-icon::after {
+    content: "BL";
+    font-size: 10px;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    color: #cdcfd2;
+}
+
+[class~="elementor-control"] h3.elementor-control-title{
+    color: #ff0000;
+}

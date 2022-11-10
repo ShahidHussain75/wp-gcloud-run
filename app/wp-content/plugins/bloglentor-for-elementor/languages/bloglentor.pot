@@ -1,0 +1,669 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BlogLentor for Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-31 08:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: classes/class-helper.php:150
+msgid " Min read"
+msgstr ""
+
+#: plugin.php:210 plugin.php:221
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:1764
+msgid "Active"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:605
+msgid "After"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:701
+#: modules/post-grid/skins/skin-base.php:1644
+msgid "Alignment"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:471
+msgid "Animation Speed"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:1878
+msgid "Arrow Size"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:490
+#: modules/post-grid/skins/skin-base.php:1869
+msgid "Arrows"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:492
+msgid "Arrows & Dots"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:1905
+#: modules/post-grid/skins/skin-base.php:1936
+msgid "Arrows Color"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:2203
+msgid "Ascending"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:244
+#: modules/post-grid/skins/skin-base.php:2184
+msgid "Author"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:428
+msgid "Autoplay Speed"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:429
+msgid "Autoplay speed in milliseconds"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:415
+msgid "Autoplay?"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:824
+#: modules/post-grid/skins/skin-base.php:862
+#: modules/post-grid/skins/skin-base.php:1379
+#: modules/post-grid/skins/skin-base.php:1410
+#: modules/post-grid/skins/skin-base.php:1687
+#: modules/post-grid/skins/skin-base.php:1718
+#: modules/post-grid/skins/skin-base.php:1782
+#: modules/post-grid/skins/skin-base.php:1916
+#: modules/post-grid/skins/skin-base.php:1947
+msgid "Background Color"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:604
+msgid "Before"
+msgstr ""
+
+#: plugin.php:237
+msgid "BlogLentor"
+msgstr ""
+
+#. Name of the plugin
+#: plugin.php:211 plugin.php:222
+msgid "BlogLentor for Elementor"
+msgstr ""
+
+#: plugin.php:192
+msgid ""
+"BlogLentor for Elementor not working because you need to activate the "
+"Elementor plugin."
+msgstr ""
+
+#: plugin.php:199
+msgid ""
+"BlogLentor for Elementor not working because you need to install the "
+"Elementor plugin"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:835
+#: modules/post-grid/skins/skin-base.php:873
+#: modules/post-grid/skins/skin-base.php:1421
+#: modules/post-grid/skins/skin-base.php:1729
+#: modules/post-grid/skins/skin-base.php:1793
+#: modules/post-grid/skins/skin-base.php:1958
+msgid "Border Color"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:754
+#: modules/post-grid/skins/skin-base.php:922
+#: modules/post-grid/skins/skin-base.php:1468
+#: modules/post-grid/skins/skin-base.php:1821
+#: modules/post-grid/skins/skin-base.php:2005
+msgid "Border Radius"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:736
+msgid "Border Width"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:1098
+#: modules/post-grid/skins/skin-base.php:1176
+#: modules/post-grid/skins/skin-base.php:1317
+#: modules/post-grid/skins/skin-base.php:1602
+msgid "Bottom Spacing"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:728
+msgid "Box"
+msgstr ""
+
+#: modules/post-grid/template-blocks/skin-style.php:210
+msgid "by "
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:2188
+msgid "By parent"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:1858
+#: modules/post-grid/widgets/posts-base.php:53
+msgid "Carousel"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:383
+msgid "Carousel Settings"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:318
+msgid "Category"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:709
+#: modules/post-grid/skins/skin-base.php:1652
+msgid "Center"
+msgstr ""
+
+#: plugin.php:46 plugin.php:57 base/module-base.php:31 base/module-base.php:42
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: modules/post-grid/skins/skin-classic1.php:48
+msgid "Classic 1"
+msgstr ""
+
+#: modules/post-grid/skins/skin-classic2.php:48
+msgid "Classic 2"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:1040
+#: modules/post-grid/skins/skin-base.php:1132
+#: modules/post-grid/skins/skin-base.php:1210
+msgid "Color"
+msgstr ""
+
+#: modules/post-grid/widgets/posts-base.php:79
+msgid "Columns"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:652
+msgid "Columns Gap"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:2190
+msgid "Comment count"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:248
+msgid "Comments"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:790
+msgid "Content Padding"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:278
+msgid "Custom"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:245
+msgid "Date"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:277
+msgid "Default"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:2204
+msgid "Descending"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:123
+#: modules/post-grid/skins/skin-base.php:176
+msgid ""
+"Disable the post image link, if you do not want to make the image clickable."
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:491
+#: modules/post-grid/skins/skin-base.php:2038
+msgid "Dots"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:2076
+msgid "Dots Active Color"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:2065
+msgid "Dots Color"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:2047
+msgid "Dots Size"
+msgstr ""
+
+#: plugin.php:212
+msgid "Elementor"
+msgstr ""
+
+#: plugin.php:193
+msgid "Elementor Activate Now"
+msgstr ""
+
+#: plugin.php:201
+msgid "Elementor Install Now"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:346
+#: modules/post-grid/skins/skin-base.php:354
+#: modules/post-grid/skins/skin-base.php:1121
+msgid "Excerpt"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:363
+msgid "Excerpt Length"
+msgstr ""
+
+#: modules/post-grid/widgets/posts-base.php:70
+msgid "General"
+msgstr ""
+
+#: modules/post-grid/widgets/posts-base.php:52
+msgid "Grid"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:91
+msgid "Height"
+msgstr ""
+
+#: modules/post-grid/skins/skin-hero1.php:46
+msgid "Hero 1"
+msgstr ""
+
+#: modules/post-grid/skins/skin-hero2.php:46
+msgid "Hero 2"
+msgstr ""
+
+#: modules/post-grid/skins/skin-hero3.php:46
+msgid "Hero 3"
+msgstr ""
+
+#: modules/post-grid/skins/skin-hero4.php:47
+msgid "Hero 4"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:847
+#: modules/post-grid/skins/skin-base.php:963
+#: modules/post-grid/skins/skin-base.php:1392
+#: modules/post-grid/skins/skin-base.php:1700
+#: modules/post-grid/skins/skin-base.php:1929
+msgid "Hover"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:1054
+msgid "Hover Color"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://wpsurface.com/wp/plugins/bloglentor-for-elementor"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpsurface.com/"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:583
+msgid "Icon"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:1225
+#: modules/post-grid/skins/skin-base.php:1530
+msgid "Icon Color"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:1558
+msgid "Icon Hover Color"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:600
+msgid "Icon Position"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:616
+msgid "Icon Spacing"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:2160
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:62
+#: modules/post-grid/skins/skin-base.php:70
+#: modules/post-grid/skins/skin-base.php:911
+msgid "Image"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:523
+msgid "Infinite"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:458
+msgid "Infinite Loop?"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:394
+msgid "Item Equal Height"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:644
+#: modules/post-grid/widgets/posts-base.php:40
+msgid "Layout"
+msgstr ""
+
+#: modules/post-grid/widgets/posts-base.php:48
+msgid "Layout Type"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:705
+#: modules/post-grid/skins/skin-base.php:1648
+msgid "Left"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:1239
+msgid "Link Color"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:1253
+msgid "Link Hover Color"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:119
+msgid "Link Image"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:172
+msgid "Link Title"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:327
+msgid "Max Terms to Show"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:2191
+msgid "Menu order"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:230
+#: modules/post-grid/skins/skin-base.php:1199
+msgid "Meta"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:238
+msgid "Meta Data"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:1278
+msgid "Meta Spacing Between"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:256
+msgid "Meta Style"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:2187
+msgid "Modified date"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:485
+msgid "Navigation"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:122
+#: modules/post-grid/skins/skin-base.php:138
+#: modules/post-grid/skins/skin-base.php:175
+#: modules/post-grid/skins/skin-base.php:191
+#: modules/post-grid/skins/skin-base.php:418
+#: modules/post-grid/skins/skin-base.php:447
+#: modules/post-grid/skins/skin-base.php:461
+#: modules/post-grid/skins/skin-base.php:571
+msgid "No"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:260
+msgid "No Icon"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:2182
+msgid "No order"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:489
+#: modules/post-grid/skins/skin-base.php:520
+msgid "None"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:809
+#: modules/post-grid/skins/skin-base.php:942
+#: modules/post-grid/skins/skin-base.php:1361
+#: modules/post-grid/skins/skin-base.php:1669
+#: modules/post-grid/skins/skin-base.php:1898
+msgid "Normal"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:521
+msgid "Numbers"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:522
+msgid "Numbers + Previous/next"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:2169
+msgid "Offset"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:1004
+msgid "Opacity"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:135
+#: modules/post-grid/skins/skin-base.php:188
+msgid "Open in New Tab"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:568
+msgid "Open in new window"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:2200
+msgid "Order"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:2179
+msgid "Order By"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:772
+#: modules/post-grid/skins/skin-base.php:1488
+#: modules/post-grid/skins/skin-base.php:1841
+#: modules/post-grid/skins/skin-base.php:2025
+msgid "Padding"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:506
+#: modules/post-grid/skins/skin-base.php:516
+#: modules/post-grid/skins/skin-base.php:1625
+msgid "Pagination"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:444
+msgid "Pause on Hover"
+msgstr ""
+
+#: plugin.php:223
+msgid "PHP"
+msgstr ""
+
+#: modules/post-grid/widgets/post-grid.php:39
+msgid "Post Grid"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:2183
+msgid "Post ID"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:2103
+msgid "Post Type"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:2151
+msgid "Posts Per Page"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:2186
+msgid "Published date"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:2092
+msgid "Query"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:2189
+msgid "Random order"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:538
+#: modules/post-grid/skins/skin-base.php:547
+#: modules/post-grid/skins/skin-base.php:557
+#: modules/post-grid/skins/skin-base.php:558
+#: modules/post-grid/skins/skin-base.php:1505
+msgid "Read More"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:555
+msgid "Read More Text"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:247
+msgid "Reading Time"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:713
+#: modules/post-grid/skins/skin-base.php:1656
+msgid "Right"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:677
+msgid "Rows Gap"
+msgstr ""
+
+#: modules/post-grid/module.php:59
+msgid "Saved"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:289
+msgid "Separator Between"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:273
+msgid "Separator Type"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Showcase your WordPress posts from any post type in beautiful way with "
+"Elementor page builder"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:472
+msgid "Slide speed in milliseconds"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:403
+msgid "Slides To Show"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:262
+msgid "Style 1"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:310
+#: modules/post-grid/skins/skin-base.php:1340
+msgid "Taxonomy"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:1368
+#: modules/post-grid/skins/skin-base.php:1399
+#: modules/post-grid/skins/skin-base.php:1516
+#: modules/post-grid/skins/skin-base.php:1676
+#: modules/post-grid/skins/skin-base.php:1707
+#: modules/post-grid/skins/skin-base.php:1771
+msgid "Text Color"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:1544
+msgid "Text Hover Color"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:246
+msgid "Time"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:155
+#: modules/post-grid/skins/skin-base.php:163
+#: modules/post-grid/skins/skin-base.php:1029
+#: modules/post-grid/skins/skin-base.php:2185
+msgid "Title"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:203
+msgid "Title HTML Tag"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:1079
+#: modules/post-grid/skins/skin-base.php:1157
+#: modules/post-grid/skins/skin-base.php:1298
+#: modules/post-grid/skins/skin-base.php:1583
+msgid "Top Spacing"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:884
+#: modules/post-grid/skins/skin-base.php:982
+#: modules/post-grid/skins/skin-base.php:1435
+#: modules/post-grid/skins/skin-base.php:1743
+#: modules/post-grid/skins/skin-base.php:1972
+msgid "Transition Duration"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:2171
+msgid "Use this setting to exclude number of initial posts from being display"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:261
+msgid "With Icon"
+msgstr ""
+
+#. Author of the plugin
+msgid "wpsurface"
+msgstr ""
+
+#: modules/post-grid/skins/skin-base.php:121
+#: modules/post-grid/skins/skin-base.php:137
+#: modules/post-grid/skins/skin-base.php:174
+#: modules/post-grid/skins/skin-base.php:190
+#: modules/post-grid/skins/skin-base.php:417
+#: modules/post-grid/skins/skin-base.php:446
+#: modules/post-grid/skins/skin-base.php:460
+#: modules/post-grid/skins/skin-base.php:570
+msgid "Yes"
+msgstr ""
