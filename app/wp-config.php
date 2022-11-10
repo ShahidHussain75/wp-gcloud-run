@@ -17,6 +17,12 @@
  *
  * @package WordPress
  */
+ 
+ 
+define( 'AS3CF_SETTINGS', serialize( array(
+	'provider' => 'gcp',
+	'use-server-roles' => true,
+) ) ); 
 
 // ** MySQL settings - You can get this info from your web host ** //
 define( 'DB_NAME', getenv('DB_NAME') );		// The name of the database for WordPress
